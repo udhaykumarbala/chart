@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://{username}.github.io/chart",
+  "homepage": "https://udhaykumarbala.github.io/chart",
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
     "autoprefixer": "^10.4.17",
